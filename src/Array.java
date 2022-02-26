@@ -3,6 +3,7 @@ import java.util.ArrayList;
 // ref:
 // https://www.w3schools.com/java/java_arraylist.asp
 
+// Link Github: https://github.com/akmalrafi-yourdev/tugas1_sda
 public class Array {
     public static void main(String[] args) throws Exception {
         ArrayList<String> myName = new ArrayList<String>();
